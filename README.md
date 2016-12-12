@@ -1,0 +1,2 @@
+# iotcon_inquiries
+githubを使ったお問い合わせをここで
