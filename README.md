@@ -1,4 +1,4 @@
-# iotcon_inquiries
+# iotfes_inquiries
 githubを使ったお問い合わせをここで
 
 # 注意点
